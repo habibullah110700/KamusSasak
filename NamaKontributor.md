@@ -1,7 +1,5 @@
-## Tuliskan Nama Kalian disini:
+## Tuliskan Nama Kalian disini:mk
 
-1. wahyu
-2. wahyu
-3.wahyu
-4.wahyu
-5.wahyu wahyu
+habibullah
+sistem informasi
+semester 1
